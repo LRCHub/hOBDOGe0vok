@@ -1,0 +1,112 @@
+{
+  "version": 1,
+  "base_track": "風の谷のナウシカ",
+  "base_artist": "安田成美",
+  "createdAt": "2026-03-14T04:09:39.963048Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "風の谷のナウシカ",
+      "artist": "井上あずみ",
+      "has_synced": false,
+      "path": "select/01_風の谷のナウシカ_井上あずみ.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "風の谷のナウシカ",
+      "artist": "安田成美",
+      "has_synced": true,
+      "path": "select/02_風の谷のナウシカ_安田成美.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "風の谷のナウシカ (風の谷のナウシカより) [オープニング]",
+      "artist": "YUKA",
+      "has_synced": false,
+      "path": "select/03_風の谷のナウシカ_(風の谷のナウシカより)_[オープニング]_YUKA.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "風の伝説 『風の谷のナウシカ』より",
+      "artist": "Takero Ogata",
+      "has_synced": false,
+      "path": "select/04_風の伝説_『風の谷のナウシカ』より_Takero_Ogata.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "ナウシカ・レクイエム (「風の谷のナウシカ」より)",
+      "artist": "AUN Jクラシックオーケストラ",
+      "has_synced": false,
+      "path": "select/05_ナウシカ・レクイエム_(「風の谷のナウシカ」より)_AUN_Jクラシックオーケストラ.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "ナウシカ・レクイエム (「風の谷のナウシカ」より)",
+      "artist": "AUN J Classic Orchestra",
+      "has_synced": false,
+      "path": "select/06_ナウシカ・レクイエム_(「風の谷のナウシカ」より)_AUN_J_Classic_Orchestra.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "風の谷のナウシカ",
+      "artist": "GBL Sound System",
+      "has_synced": false,
+      "path": "select/07_風の谷のナウシカ_GBL_Sound_System.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "風の谷のナウシカ",
+      "artist": "Yasuda, Narumi",
+      "has_synced": true,
+      "path": "select/08_風の谷のナウシカ_Yasuda,_Narumi.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "風の谷のナウシカ",
+      "artist": "Meja",
+      "has_synced": true,
+      "path": "select/09_風の谷のナウシカ_Meja.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "風の谷のナウシカ(風の谷のナウシカ)",
+      "artist": "安田成美",
+      "has_synced": true,
+      "path": "select/10_風の谷のナウシカ(風の谷のナウシカ)_安田成美.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "風の谷のナウシカ（風の谷のナウシカ）",
+      "artist": "Yasuda, Narumi",
+      "has_synced": true,
+      "path": "select/11_風の谷のナウシカ(風の谷のナウシカ)_Yasuda,_Narumi.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "ナウシカレクイエム (『風の谷のナウシカ』より)",
+      "artist": "nack",
+      "has_synced": false,
+      "path": "select/12_ナウシカレクイエム_(『風の谷のナウシカ』より)_nack.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "風の谷のナウシカ",
+      "artist": "安田成美",
+      "has_synced": false,
+      "path": "select/pl_01_風の谷のナウシカ_安田成美.txt"
+    }
+  ]
+}
